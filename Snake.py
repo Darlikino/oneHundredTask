@@ -1,12 +1,9 @@
-# Wormy (a Nibbles clone)
-# By Al Sweigart al@inventwithpython.com
-# http://inventwithpython.com/pygame
-# Released under a "Simplified BSD" license
+# Червячок джими в поисках красного яблока
 
 import random, pygame, sys
 from pygame.locals import *
 
-FPS = 15
+FPS = 10
 WINDOWWIDTH = 640
 WINDOWHEIGHT = 480
 CELLSIZE = 20
